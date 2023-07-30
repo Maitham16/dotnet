@@ -1,0 +1,15 @@
+/home/maith/Desktop/dotnet/BankAccount/bin/Debug/net7.0/BankAccount
+/home/maith/Desktop/dotnet/BankAccount/bin/Debug/net7.0/BankAccount.deps.json
+/home/maith/Desktop/dotnet/BankAccount/bin/Debug/net7.0/BankAccount.runtimeconfig.json
+/home/maith/Desktop/dotnet/BankAccount/bin/Debug/net7.0/BankAccount.dll
+/home/maith/Desktop/dotnet/BankAccount/bin/Debug/net7.0/BankAccount.pdb
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/BankAccount.csproj.AssemblyReference.cache
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/BankAccount.AssemblyInfoInputs.cache
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/BankAccount.AssemblyInfo.cs
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/BankAccount.csproj.CoreCompileInputs.cache
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/BankAccount.dll
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/refint/BankAccount.dll
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/BankAccount.pdb
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/BankAccount.genruntimeconfig.cache
+/home/maith/Desktop/dotnet/BankAccount/obj/Debug/net7.0/ref/BankAccount.dll

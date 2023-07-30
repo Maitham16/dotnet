@@ -1,0 +1,15 @@
+/home/maith/Desktop/dotnet/CSharpTutorial/bin/Debug/net7.0/CSharpTutorial
+/home/maith/Desktop/dotnet/CSharpTutorial/bin/Debug/net7.0/CSharpTutorial.deps.json
+/home/maith/Desktop/dotnet/CSharpTutorial/bin/Debug/net7.0/CSharpTutorial.runtimeconfig.json
+/home/maith/Desktop/dotnet/CSharpTutorial/bin/Debug/net7.0/CSharpTutorial.dll
+/home/maith/Desktop/dotnet/CSharpTutorial/bin/Debug/net7.0/CSharpTutorial.pdb
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/CSharpTutorial.csproj.AssemblyReference.cache
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/CSharpTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/CSharpTutorial.AssemblyInfoInputs.cache
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/CSharpTutorial.AssemblyInfo.cs
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/CSharpTutorial.csproj.CoreCompileInputs.cache
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/CSharpTutorial.dll
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/refint/CSharpTutorial.dll
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/CSharpTutorial.pdb
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/CSharpTutorial.genruntimeconfig.cache
+/home/maith/Desktop/dotnet/CSharpTutorial/obj/Debug/net7.0/ref/CSharpTutorial.dll
