@@ -1,0 +1,94 @@
+C# is a statically-typed language, meaning you have to declare the type of a variable 
+when you create it:
+
+int x = 10; // Integer
+double y = 20.5; // Double precision floating-point
+bool isTrue = false; // Boolean
+string name = "Alice"; // String
+
+Arrays
+int[] numbers = new int[5] {1, 2, 3, 4, 5};
+
+Conditionals
+
+if (x > y)
+{
+    Console.WriteLine("x is greater than y");
+}
+else if (x < y)
+{
+    Console.WriteLine("x is less than y");
+}
+else
+{
+    Console.WriteLine("x and y are equal");
+}
+
+Loops
+
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(i);
+}
+
+foreach (int number in numbers)
+{
+    Console.WriteLine(number);
+}
+
+while (x < 10)
+{
+    Console.WriteLine(x);
+    x++;
+}
+
+Functions
+
+A function is a block of code that performs a specific task:
+
+static int Sum(int x, int y)
+{
+    return x + y;
+}
+
+Classes and Objects
+
+C# is an object-oriented programming language. Classes and objects are the two main 
+aspects of object-oriented programming:
+
+public class Car
+{
+    public string color;
+
+    public void Drive()
+    {
+        Console.WriteLine("The car is driving.");
+    }
+}
+
+Car myCar = new Car();
+myCar.color = "red";
+myCar.Drive();
+
+Exceptions
+C# uses try/catch blocks to handle exceptions:
+
+try
+{
+    int z = x / 0;
+}
+catch (DivideByZeroException e)
+{
+    Console.WriteLine("Cannot divide by zero");
+}
+
+LINQ (Language-Integrated Query)
+
+LINQ is a powerful feature in C# that allows you to query data in a more natural way:
+
+int[] scores = new int[] { 90, 85, 80, 75, 60 };
+
+IEnumerable<int> scoreQuery =
+    from score in scores
+    where score > 80
+    select score;

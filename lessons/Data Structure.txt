@@ -1,0 +1,136 @@
+1. Multi-Dimensional Arrays (2D, 3D, etc.)
+In C#, we can have multidimensional arrays. A 2-dimensional array can be thought of as a 
+table, which will have x number of rows and y number of columns. A 3-dimensional array, 
+is essentially an array of 2D arrays. 
+Here is how you can declare them:
+
+// A 2D array
+int[,] array2D = new int[3,2] 
+{ 
+    { 1, 2 }, 
+    { 3, 4 }, 
+    { 5, 6 } 
+};
+
+// A 3D array
+int[,,] array3D = new int[2, 2, 2] 
+{ 
+    { { 1, 2}, { 3, 4} }, 
+    { { 5, 6}, { 7, 8} } 
+};
+
+2. LinkedList
+LinkedLists are a type of data structure that are sequential collections of elements, 
+where each element links to its next element in the sequence. It's a part of the System.
+Collections.Generic namespace.
+Here is how you can use a LinkedList in C#:
+
+LinkedList<int> linkedList = new LinkedList<int>();
+
+// Add nodes to the linked list
+linkedList.AddLast(1);
+linkedList.AddLast(2);
+linkedList.AddLast(3);
+
+// Iterate over linked list and print elements
+foreach (var item in linkedList)
+{
+    Console.WriteLine(item);
+}
+
+3. Stack
+
+A Stack is a data structure that follows the LIFO (Last In First Out) principle. 
+The System.Collections.Generic namespace provides the Stack<T> class. 
+Here is an example:
+
+Stack<int> stack = new Stack<int>();
+
+// Push elements onto stack
+stack.Push(1);
+stack.Push(2);
+stack.Push(3);
+
+// Pop elements from stack
+Console.WriteLine(stack.Pop()); // Outputs 3
+Console.WriteLine(stack.Pop()); // Outputs 2
+Console.WriteLine(stack.Pop()); // Outputs 1
+
+4. Queue
+A Queue is a data structure that follows the FIFO (First In First Out) principle.
+Here is an example of how to use a Queue in C#:
+
+Queue<int> queue = new Queue<int>();
+
+// Enqueue elements onto queue
+queue.Enqueue(1);
+queue.Enqueue(2);
+queue.Enqueue(3);
+
+// Dequeue elements from queue
+Console.WriteLine(queue.Dequeue()); // Outputs 1
+Console.WriteLine(queue.Dequeue()); // Outputs 2
+Console.WriteLine(queue.Dequeue()); // Outputs 3
+
+5. Dictionary
+A Dictionary is a data structure that stores items in key/value pairs.
+Here is an example of how to use a Dictionary in C#:
+
+Dictionary<string, string> capitals = new Dictionary<string, string>();
+
+// Add keys and values to dictionary
+capitals.Add("England", "London");
+capitals.Add("Germany", "Berlin");
+capitals.Add("Norway", "Oslo");
+
+// Iterate over dictionary
+foreach (KeyValuePair<string, string> capital in capitals)
+{
+    Console.WriteLine(capital.Value + " is the capital of " + capital.Key);
+}
+
+6. HashSet
+A HashSet is a data structure that stores items in a hash table, which is a structure
+that associates keys with values. It uses hash codes to store elements.
+Here is an example of how to use a HashSet in C#:
+
+HashSet<string> hashSet = new HashSet<string>();
+
+// Add elements to hash set
+hashSet.Add("England");
+hashSet.Add("Germany");
+hashSet.Add("Norway");
+
+// Iterate over hash set
+foreach (string item in hashSet)
+{
+    Console.WriteLine(item);
+}
+
+7. SortedList
+A SortedList is a data structure that stores items in a sorted manner.
+Here is an example of how to use a SortedList in C#:
+
+SortedList<string, string> sortedList = new SortedList<string, string>();
+
+// Add keys and values to sorted list
+sortedList.Add("England", "London");
+sortedList.Add("Germany", "Berlin");
+sortedList.Add("Norway", "Oslo");
+
+// Iterate over sorted list
+foreach (KeyValuePair<string, string> capital in sortedList)
+{
+    Console.WriteLine(capital.Value + " is the capital of " + capital.Key);
+}
+
+8. Tuple
+A Tuple is a data structure that contains a sequence of elements of different data types.
+Here is an example of how to use a Tuple in C#:
+
+Tuple<int, string, bool> tuple = new Tuple<int, string, bool>(1, "cat", true);
+
+// Access tuple elements
+Console.WriteLine(tuple.Item1); // Outputs 1
+Console.WriteLine(tuple.Item2); // Outputs cat
+Console.WriteLine(tuple.Item3); // Outputs True
