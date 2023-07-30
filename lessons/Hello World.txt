@@ -1,0 +1,6 @@
+Create a Console Application:
+dotnet new console -o HelloWorld
+
+Run the Application:
+cd HelloWorld
+dotnet run

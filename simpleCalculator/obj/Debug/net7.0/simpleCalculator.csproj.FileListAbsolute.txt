@@ -1,0 +1,15 @@
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/simpleCalculator.csproj.AssemblyReference.cache
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/simpleCalculator.AssemblyInfoInputs.cache
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/simpleCalculator.AssemblyInfo.cs
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/simpleCalculator.csproj.CoreCompileInputs.cache
+/home/maith/Desktop/dotnet/simpleCalculator/bin/Debug/net7.0/simpleCalculator
+/home/maith/Desktop/dotnet/simpleCalculator/bin/Debug/net7.0/simpleCalculator.deps.json
+/home/maith/Desktop/dotnet/simpleCalculator/bin/Debug/net7.0/simpleCalculator.runtimeconfig.json
+/home/maith/Desktop/dotnet/simpleCalculator/bin/Debug/net7.0/simpleCalculator.dll
+/home/maith/Desktop/dotnet/simpleCalculator/bin/Debug/net7.0/simpleCalculator.pdb
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/simpleCalculator.dll
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/refint/simpleCalculator.dll
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/simpleCalculator.pdb
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/simpleCalculator.genruntimeconfig.cache
+/home/maith/Desktop/dotnet/simpleCalculator/obj/Debug/net7.0/ref/simpleCalculator.dll
